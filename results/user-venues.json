@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8a7d0582-9a2b-4b24-9e62-5c961e2b993e",
+    "name": "Spatial Vision Office",
+    "address": "Gallaghers Place, 3000 Melbourne, Victoria, Australia",
+    "description": "Spatial Vision",
+    "isPrivate": true,
+    "location": [
+      -37.8164984828887,
+      144.956595227122
+    ],
+    "createdAt": "2016-03-31T01:07:28Z",
+    "updatedAt": "2016-03-31T02:55:48Z",
+    "createdBy": "53eed9d2-188f-40e8-bceb-c3674340681d"
+  }
+]

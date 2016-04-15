@@ -1,0 +1,14 @@
+{
+  "isMapAvailable": true,
+  "isMapGenerating": false,
+  "latestMapCreatedAt": "2016-04-14T02:52:05Z",
+  "generationStartedAt": null,
+  "latestMapGeneration": {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "floorplan": null,
+    "isSuccess": true,
+    "startedAt": "0001-01-01T00:00:00Z",
+    "finishedAt": "2016-04-14T02:52:08Z",
+    "duration": "PT14M35S"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": "8a7d0582-9a2b-4b24-9e62-5c961e2b993e",
+  "name": "Spatial Vision Office",
+  "address": "Gallaghers Place, 3000 Melbourne, Victoria, Australia",
+  "description": "Spatial Vision",
+  "isPrivate": true,
+  "location": [
+    -37.8164984828887,
+    144.956595227122
+  ],
+  "floors": [
+    {
+      "id": "4acd9e54-78cf-4ebd-8f1f-1ef4c4ed7cca",
+      "name": "0",
+      "floorNumber": 0,
+      "venue": {
+        "id": "8a7d0582-9a2b-4b24-9e62-5c961e2b993e"
+      },
+      "floorPlans": [
+        {
+          "id": "c425fc55-7f57-40d5-b85e-ccf3d8964f01",
+          "name": "Ground Floor",
+          "floor": {
+            "id": "4acd9e54-78cf-4ebd-8f1f-1ef4c4ed7cca",
+            "venue": {
+              "id": "8a7d0582-9a2b-4b24-9e62-5c961e2b993e"
+            }
+          },
+          "createdAt": "2016-04-01T00:08:53Z",
+          "updatedAt": "2016-04-01T00:08:53Z",
+          "url": "https://idaweb.blob.core.windows.net/imageblobcontainer/ae716d9c-7eeb-4fde-a2b1-fed073a5ae46",
+          "maskUrl": null,
+          "dimensions": [
+            1264,
+            630
+          ],
+          "markers": [
+            {
+              "geo": [
+                -37.8166415076517,
+                144.956837967038
+              ],
+              "floorplan": [
+                1264,
+                0
+              ]
+            },
+            {
+              "geo": [
+                -37.8164068409504,
+                144.956365227699
+              ],
+              "floorplan": [
+                0,
+                630
+              ]
+            },
+            {
+              "geo": [
+                -37.8163067233271,
+                144.956693127751
+              ],
+              "floorplan": [
+                0,
+                0
+              ]
+            }
+          ],
+          "createdBy": "53eed9d2-188f-40e8-bceb-c3674340681d",
+          "imageContent": null,
+          "imageMaskContent": null
+        }
+      ],
+      "createdAt": "2016-04-01T00:08:50Z",
+      "updatedAt": "2016-04-01T00:08:50Z"
+    },
+    {
+      "id": "3f016f45-4103-4a4b-91fe-2efff712f64b",
+      "name": "4",
+      "floorNumber": 4,
+      "venue": {
+        "id": "8a7d0582-9a2b-4b24-9e62-5c961e2b993e"
+      },
+      "floorPlans": [
+        {
+          "id": "b9528a6d-86ef-4a95-871b-2d193dd33b85",
+          "name": "SV Office",
+          "floor": {
+            "id": "3f016f45-4103-4a4b-91fe-2efff712f64b",
+            "venue": {
+              "id": "8a7d0582-9a2b-4b24-9e62-5c961e2b993e"
+            }
+          },
+          "createdAt": "2016-03-31T02:57:22Z",
+          "updatedAt": "2016-03-31T02:57:22Z",
+          "url": "https://idaweb.blob.core.windows.net/imageblobcontainer/eb4a6b81-8468-4a3f-96d2-c63d5e9a58d4",
+          "maskUrl": null,
+          "dimensions": [
+            662,
+            927
+          ],
+          "markers": [
+            {
+              "geo": [
+                -37.8167426842612,
+                144.956510066986
+              ],
+              "floorplan": [
+                0,
+                927
+              ]
+            },
+            {
+              "geo": [
+                -37.8162998369247,
+                144.956695139408
+              ],
+              "floorplan": [
+                662,
+                0
+              ]
+            },
+            {
+              "geo": [
+                -37.8163973059445,
+                144.95636254549
+              ],
+              "floorplan": [
+                0,
+                0
+              ]
+            }
+          ],
+          "createdBy": "53eed9d2-188f-40e8-bceb-c3674340681d",
+          "imageContent": null,
+          "imageMaskContent": null
+        },
+        {
+          "id": "2559951f-8470-46c1-8d32-2983e6636d71",
+          "name": "SV Office Color",
+          "floor": {
+            "id": "3f016f45-4103-4a4b-91fe-2efff712f64b",
+            "venue": {
+              "id": "8a7d0582-9a2b-4b24-9e62-5c961e2b993e"
+            }
+          },
+          "createdAt": "2016-04-14T00:00:32Z",
+          "updatedAt": "2016-04-14T02:52:00Z",
+          "url": "https://idaweb.blob.core.windows.net/imageblobcontainer/50453515-be2d-493b-91f2-a3e1c2083d5e",
+          "maskUrl": null,
+          "dimensions": [
+            855,
+            1193
+          ],
+          "markers": [
+            {
+              "geo": [
+                -37.8164063112279,
+                144.956365898252
+              ],
+              "floorplan": [
+                0,
+                0
+              ]
+            },
+            {
+              "geo": [
+                -37.8167426842612,
+                144.956511408091
+              ],
+              "floorplan": [
+                0,
+                1193
+              ]
+            },
+            {
+              "geo": [
+                -37.8163030152644,
+                144.956692457199
+              ],
+              "floorplan": [
+                856,
+                0
+              ]
+            }
+          ],
+          "createdBy": "53eed9d2-188f-40e8-bceb-c3674340681d",
+          "imageContent": null,
+          "imageMaskContent": null
+        }
+      ],
+      "createdAt": "2016-03-31T01:11:44Z",
+      "updatedAt": "2016-03-31T01:11:44Z"
+    }
+  ],
+  "createdAt": "2016-03-31T01:07:28Z",
+  "updatedAt": "2016-03-31T02:55:48Z",
+  "createdBy": "53eed9d2-188f-40e8-bceb-c3674340681d"
+}

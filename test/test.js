@@ -38,6 +38,7 @@ describe('IndoorAtlas API', function() {
             atlas.user(function(err, data) {
                 expect(err).to.not.exist;
                 expect(data.id).to.equal(atlas.getUserId());
+                console.log('atlas.user: ', data, JSON.stringify(data));
                 done();
             });
         });
@@ -49,18 +50,21 @@ describe('IndoorAtlas API', function() {
                 atlas.globalVenues(function(err, data) {
                     expect(err).to.not.exist;
                     expect(data).to.exist;
+                    console.log('atlas.globalVenues: ', data, JSON.stringify(data));
                     done();
                 });
             });
 
             it('should receive venues within lat, lon, radius', function(done) {
-                atlas.globalVenues({
+                var location = {
                     latlon: '51.50232867181172,-0.05566772460937841',
                     radius: 5187,
                     json: true
-                }, function(err, data) {
+                };
+                atlas.globalVenues(location, function(err, data) {
                     expect(err).to.not.exist;
                     expect(data).to.exist;
+                    console.log('atlas.globalVenues: within lat, lon, radius', data, JSON.stringify(data));
                     done();
                 });
             });
@@ -71,6 +75,7 @@ describe('IndoorAtlas API', function() {
                 atlas.venues(function(err, data) {
                     expect(err).to.not.exist;
                     expect(data).to.be.instanceof(Array);
+                    console.log('atlas.venues: ', data, JSON.stringify(data));
                     done();
                 });
             });

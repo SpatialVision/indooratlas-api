@@ -1,0 +1,53 @@
+{
+  "id": "2559951f-8470-46c1-8d32-2983e6636d71",
+  "name": "SV Office Color",
+  "floor": {
+    "id": "3f016f45-4103-4a4b-91fe-2efff712f64b",
+    "venue": {
+      "id": "8a7d0582-9a2b-4b24-9e62-5c961e2b993e"
+    }
+  },
+  "createdAt": "2016-04-14T00:00:32Z",
+  "updatedAt": "2016-04-14T02:52:00Z",
+  "url": "https://idaweb.blob.core.windows.net/imageblobcontainer/50453515-be2d-493b-91f2-a3e1c2083d5e",
+  "maskUrl": null,
+  "dimensions": [
+    855,
+    1193
+  ],
+  "markers": [
+    {
+      "geo": [
+        -37.8164063112279,
+        144.956365898252
+      ],
+      "floorplan": [
+        0,
+        0
+      ]
+    },
+    {
+      "geo": [
+        -37.8167426842612,
+        144.956511408091
+      ],
+      "floorplan": [
+        0,
+        1193
+      ]
+    },
+    {
+      "geo": [
+        -37.8163030152644,
+        144.956692457199
+      ],
+      "floorplan": [
+        856,
+        0
+      ]
+    }
+  ],
+  "createdBy": "53eed9d2-188f-40e8-bceb-c3674340681d",
+  "imageContent": null,
+  "imageMaskContent": null
+}

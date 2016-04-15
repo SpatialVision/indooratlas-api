@@ -155,7 +155,15 @@ IndoorAtlasAPI.prototype = {
 
     getUserId: function() {
         return this._userId;
-    }
+    },
+
+    api: function(path, callback) {
+        this._apiRequest({
+            uri: BASE_URL + path,
+            method: 'GET'
+        }, callback);
+    },
+
 };
 
 exports.create = function(username, password, callback) {

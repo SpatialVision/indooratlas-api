@@ -1,0 +1,72 @@
+{
+  "tests": {
+    "0": {
+      "avgConvDist": 5.1477274894714355,
+      "convVar": 58.55772399902344,
+      "avgDistAfterConv": 2.7520344257354736,
+      "medDistAfterConv": 2.0071825981140137,
+      "perc75": 3.9077908992767334,
+      "perc95": 7.941152572631836,
+      "validationCoverageImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationCoverageImage_none_20160414-02.52.09.png",
+      "positioningErrorImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationPathPositioningErrorImage_setup1_20160414-02.52.18.png"
+    },
+    "1": {
+      "avgConvDist": 10.168830871582031,
+      "convVar": 173.98448181152344,
+      "avgDistAfterConv": 5.402866840362549,
+      "medDistAfterConv": 4.339011192321777,
+      "perc75": 8.397322654724121,
+      "perc95": 13.682619094848633,
+      "validationCoverageImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationCoverageImage_none_20160414-02.52.09.png",
+      "positioningErrorImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationPathPositioningErrorImage_setup2_20160414-02.52.29.png"
+    },
+    "5": {
+      "avgConvDist": 1.7765957117080688,
+      "convVar": 10.896899223327637,
+      "avgDistAfterConv": 3.5500075817108154,
+      "medDistAfterConv": 3.0073606967926025,
+      "perc75": 4.836761951446533,
+      "perc95": 8.825956344604492,
+      "validationCoverageImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationCoverageImage_none_20160414-02.52.09.png",
+      "positioningErrorImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationPathPositioningErrorImage_setup5_20160414-02.52.51.png"
+    },
+    "6": {
+      "avgConvDist": 4.0107526779174805,
+      "convVar": 68.01063537597656,
+      "avgDistAfterConv": 1.4954233169555664,
+      "medDistAfterConv": 1.08162522315979,
+      "perc75": 2.1068248748779297,
+      "perc95": 4.363479137420654,
+      "validationCoverageImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationCoverageImage_none_20160414-02.52.09.png",
+      "positioningErrorImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationPathPositioningErrorImage_setup6_20160414-02.53.02.png"
+    },
+    "7": {
+      "avgConvDist": 8.725275039672852,
+      "convVar": 86.35309600830078,
+      "avgDistAfterConv": 2.653825044631958,
+      "medDistAfterConv": 1.795362114906311,
+      "perc75": 4.019843101501465,
+      "perc95": 8.155498504638672,
+      "validationCoverageImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationCoverageImage_none_20160414-02.52.09.png",
+      "positioningErrorImageUrl": "https://idadata.blob.core.windows.net/mapqualityimages/2559951f-8470-46c1-8d32-2983e6636d71_ValidationPathPositioningErrorImage_setup7_20160414-02.53.13.png"
+    }
+  },
+  "numMapSeqs": 20,
+  "numTestSeqs": 8,
+  "numInvalidTestSeq": 4,
+  "numTooShortTestSeqs": 2,
+  "numNonConvergedTestSeqs": 2,
+  "totalMapLengthMeters": 182.18833923339844,
+  "totalTestPathLength": 497.524658203125,
+  "floorplanAreaM2": 1225.0335693359375,
+  "CreatedAt": "2016-04-14T02:53:16.317Z",
+  "numUniqueMapSeqDeviceModels": 1,
+  "numUniqueTestSeqDeviceModels": 1,
+  "wifiReliability": 1,
+  "approximateMappedAreaPerHour": 262.648681640625,
+  "approximateTotalMappingSessionsTimeSeconds": 1261,
+  "mappedArea": 92,
+  "numMappingDays": 1,
+  "pathTimeSumSeconds": 898.5148315429688,
+  "validationStateSpaceCoveragePercent": 0.885869562625885
+}
